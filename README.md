@@ -4,4 +4,4 @@ An analysis of food security in the United States using data from the USDA ERS F
 - Ranking of states by food insecurity (geography.ipynb)
 - Correlation between median income and poverty with food insecurity (income_poverty.ipynb)
 
-Findings are summarized in 'Food_Security_in_the_United_States.pdf'.
+Findings are summarized in [Food_Security_in_the_United_States.pdf](https://github.com/KevinyWu/food_security/blob/main/Food_Security_in_the_United_States.pdf).
